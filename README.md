@@ -1,8 +1,10 @@
-* kodat project
+# kodat project
+
 It is a website that sells software services
 Website designed using html css js
 The site contains 4 pages
 Homepage
+
 - Services page
 - projects page
 - About page
