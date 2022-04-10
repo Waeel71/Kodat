@@ -1,0 +1,98 @@
+.toolbar .container div{
+    font-size: large;
+    padding: 2px;
+}
+.navbar{
+    z-index: 3;
+    position: sticky;
+}
+.navlist li{
+    float: left;
+    list-style: none;
+    font-size: large;
+    text-align: center;
+}
+.navlist li:hover{
+    background-color: gainsboro;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+}
+.cotr{
+    width: 75%;
+    margin-left: 12.5%;
+}
+.Search{
+    border-radius: 25px;
+    width: 100%;
+    height: 50px;
+}
+.bold:active{
+    font-weight: bold;
+}
+.image{
+    height: 400px;
+}
+.kart{
+    margin-top: 10px;
+    margin-left: 10%;
+    padding: 0px;
+}
+.kart .card-body{
+    margin: 0px;
+    padding: 0px;
+}
+.kart .card-body img{
+    width: 100%;
+    margin: 0px;
+}
+.kart .card-body h6{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.hizmet{
+    border-bottom: 1px grey solid;
+    border-top: 1px grey solid;
+    margin-top: 10px;
+    padding: 15px;
+    padding-left: 45%;
+    font-weight: bold;
+    background-color: gainsboro;
+}
+.bottomcard{
+    position: relative;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border: 1px grey solid;
+    background-color: gainsboro;
+    padding: 10px;
+}
+.card-ctor{
+    margin: 15px;
+}
+.about-sec{
+    background-color: aquamarine;
+    padding: 25px;
+    margin-top: 10px;
+}
+.about-img{
+    height: 300px;
+    width: 500px;
+}
+.footer{
+    margin-top: 15px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+.copyright{
+    text-align: center;
+}
+.footerlistes{
+    list-style: none;
+}
+.footerlistes li a{
+    color: aliceblue;
+}
