@@ -9,3 +9,4 @@ The site contains 4 pages
 - projects page
 - About page
 ### The site is not fully completed and is still under development. Any new addition will be announced in this file
+-sizing css file added
